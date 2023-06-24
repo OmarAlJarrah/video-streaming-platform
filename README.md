@@ -16,8 +16,8 @@ The vision for this project is to develop a production-ready video sharing and s
 - Security.
 - High Performance.
 
-  ## Development Style
-Mainly focus on `Agile`, `Incremental` development. This project will be phased based on features, capabilities & optimization (Get a base, build on top of it, make it work, and finally optimize). 
+## Development Style
+Mainly focus on **agile**, **incremental** development. This project will be phased based on features, capabilities & optimization (Get a base, build on top of it, make it work, and finally optimize). 
 
 Project **phases**, **tasks**, **initiatives**, **system designs** & **documents** will be maintained through `GitHub Issues` and the documentation directory.
 
